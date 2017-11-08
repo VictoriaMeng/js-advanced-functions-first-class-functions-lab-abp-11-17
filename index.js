@@ -26,5 +26,5 @@ const fareTripler = function (fare) {
 }
 
 function selectDifferentDrivers(drivers, returnFunction) {
-  return returnFunction === returnFirstTwoDrivers ? returnFirstTwoDrivers(drivers) : returnLastTwoDrivers;
+  return returnFunction === returnFirstTwoDrivers ? returnFirstTwoDrivers(drivers) : returnLastTwoDrivers(function);
 }
