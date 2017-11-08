@@ -7,4 +7,6 @@ const returnLastTwoDrivers = function (drivers) {
   return drivers.slice(-2);
 }
 
-console.log(returnFirstTwoDrivers(["A", "B", "C"]))
+const selectingDrivers = function () {
+  
+}
