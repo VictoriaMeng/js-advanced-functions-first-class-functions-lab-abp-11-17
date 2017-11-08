@@ -15,6 +15,6 @@ function createFareMultiplier(integer) {
   }
 }
 
-const fareTripler = function (drivers) {
+const fareDoubler = function (drivers) {
 
 }
